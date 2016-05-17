@@ -1,1 +1,9 @@
 github-oauth:0.23
+mailer:1.4
+git:2.0.3
+github-api:1.69
+credentials:1.25
+scm-api:1.0
+git-client:1.19.6
+matrix-project:1.6
+ssh-credentials:1.11
