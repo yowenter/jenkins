@@ -1,0 +1,9 @@
+jenkins:
+  image: daocloud.io/daocloud/jenkins:master-d33554c
+  privileged: true
+  user: root
+  volumes:
+  - /root/jenkins:/var/jenkins_home
+  ports:
+  - 80:8080
+  - 50000:50000
